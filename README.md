@@ -20,6 +20,7 @@
 <a href="https://fb.com/https://www.facebook.com/biswajit.paloi.987/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/biswajit.paloi.987/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/biswajitpaloi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/biswajitpaloi/" height="30" width="40" /></a>
 </p>
+<h3 align="left">Stack Overflow reputation</h3>
 <a href="https://stackoverflow.com/users/16299715/biswajit-paloi" target="_blank">
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=16299715" />
