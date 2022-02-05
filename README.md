@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Biswajit paloi</h1>
 <h3 align="center">I'm a Full-Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **django E-commerce**
+- 🔭 I’m currently working on **django Rest Framework(DRF)**
 
 - 🌱 I’m currently learning **everything 🤣**
 
-- 👯 I’m looking to collaborate on **django-ecommerce-project**
+- 👯 I’m looking to collaborate on **django Rest Framework(DRF)**
 
 - 🤝 I’m looking for help with **django**
 
