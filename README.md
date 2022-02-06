@@ -31,6 +31,4 @@ src="https://stackoverflow-badge.vercel.app/?userID=16299715" />
 <br>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajit955&show_icons=true&theme=aura&layout=compact" alt="biswajit955" /></p>
- <br>
- <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajit955&show_icons=true&theme=algolia&show_icons=true" alt="biswajit955" /></p>
